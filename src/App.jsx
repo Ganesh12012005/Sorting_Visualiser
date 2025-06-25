@@ -91,7 +91,7 @@ function App() {
   return (
     <div className="container">
       <header className="header">
-        <h1>Sorting Algorithm Visualizer</h1>
+        <h1>Visual Sorter</h1>
       </header>
 
       <Controls

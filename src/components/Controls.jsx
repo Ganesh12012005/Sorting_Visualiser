@@ -38,9 +38,9 @@ const Controls = ({
             </div>
 
             <div className="button-group">
-                <button onClick={generateArray} disabled={sorting}>Generate Array</button>
-                <button onClick={startSorting} disabled={sorting}>Start Sorting</button>
-                <button onClick={stopSorting} disabled={!sorting}>Stop</button>
+                <button onClick={generateArray} className="generate-array" disabled={sorting}>Generate Array</button>
+                <button onClick={startSorting} className="sort" disabled={sorting}>Start Sorting</button>
+                <button onClick={stopSorting} className="stop" disabled={!sorting}>Stop</button>
             </div>
         </div>
     );
