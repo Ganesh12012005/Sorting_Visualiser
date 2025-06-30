@@ -11,6 +11,7 @@ It allows users to visualize how different sorting algorithms work step by step.
 
 
 ---
+![Demo](Screenshot 2025-06-30 165614.png)
 
 ##  Algorithms Supported
 
